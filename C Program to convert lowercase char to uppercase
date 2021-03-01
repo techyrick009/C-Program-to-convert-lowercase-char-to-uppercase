@@ -1,0 +1,22 @@
+
+/*
+ *  Author: Techyrick.com
+ */
+
+#include<stdio.h> 
+//#include 
+
+void main() {
+
+char no;
+
+//clrscr();
+
+printf("Enter a char/Alphabet in Upper Case : ");
+scanf("%c",&no);
+
+printf("\n Lower case value of %c is : %c",no,no+32);
+
+//getch();  
+   
+}
